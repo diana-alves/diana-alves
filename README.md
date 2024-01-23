@@ -1,19 +1,17 @@
-# Bem-vindo ao Meu Espaço de Codificação! 🌟
+### Hi guys, I'm Diana Alves👋
 
-👋 Olá, eu sou @diana-alves👩‍💻🌟! Sou estudante de Sistemas de Informação e estou embarcando na emocionante jornada da programação. Estou ansiosa para compartilhar minha jornada de aprendizado aqui.
+- 🌱 I’m currently learning HTML, CSS, PYTHON, JAVASCRIPT
+- 📫 How to reach me: dianaborgesalvess@gmail.com
 
-## 🌱 O que estou fazendo agora
-Atualmente, estou concentrada nos meus estudos, mergulhando profundamente no universo da programação.
-
-## 💞️ Colaboração
-Tenho uma grande paixão por aprender e estou muito interessada em ajudar e participar em projetos empolgantes! Se você estiver trabalhando em algo interessante e acha que posso contribuir, [conte-me mais sobre o projeto ou suas necessidades](https://www.linkedin.com/in/diana-borges-alves-885b0626a/) 🚀.
-
-## 📚 O Que Estou Aprendendo
-Python: Atualmente imersa no estudo de Python, explorando suas diversas aplicações e funcionalidades 💻.
-
-## 🌟 Por Último...
-Em nossa busca pelo conhecimento, cada página virada nos traz novas descobertas. Assim, enquanto navegamos por esta incrível aventura chamada vida, que possamos abraçar cada oportunidade de aprender, crescer e aprimorar quem somos. 📘🌱
-
-Que seus dias sejam repletos de positividade, seus sonhos sejam ousados e suas realizações sejam gratificantes. 🌈✨
-
-Aventure-se com coragem, ame com generosidade e sorria com o coração. O mundo está cheio de possibilidades esperando para serem exploradas. 🌍✨
+<div>
+  <a href="https://github.com/diana-alves">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diana-alves&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana-alves&layout=compact&langs_count=7&theme=react"/>
+</div>
+    
+  <div style="display: inline_block"><br>
+    <img align="center" alt="Gab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Gab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img align="center" alt="Gab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
